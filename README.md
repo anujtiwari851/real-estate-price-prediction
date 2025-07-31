@@ -1,4 +1,4 @@
-# Real Estate Price Prediction
+# 1.Real Estate Price Prediction
 
 This project is focused on predicting real estate prices using features such as location, square foots, number of bedrooms, and more. A regression model is trained to estimate housing prices based on cleaned and processed data.
 
@@ -48,7 +48,9 @@ This project is focused on predicting real estate prices using features such as 
 - Dataset inspired by publicly available housing data.
 - Educational project for demonstrating ML pipeline in real estate.
 
-# Image Classification model using CNN
+  
+
+# 2.Image Classification model using CNN
 
 This project demonstrates how to build and train a Convolutional Neural Network (CNN) for image classification using Python and TensorFlow/Keras. The notebook walks through all the essential steps, including data preprocessing, model building, training, evaluation, and prediction. This type of model is widely used in computer vision applications such as object recognition, face detection, and scene classification.
 
@@ -60,3 +62,29 @@ This project demonstrates how to build and train a Convolutional Neural Network 
 - Train the model and monitor performance
 - Evaluate the model on test data
 - Make predictions on unseen images
+
+## Model Architecture
+
+A typical architecture implemented in the notebook may include:
+
+- Convolutional Layers with ReLU activation
+- MaxPooling layers
+- Flatten layer
+- Fully Connected (Dense) layers
+- Dropout (for regularization)
+- Softmax output layer for classification
+
+## Requirements
+
+- Python 3.7+
+- TensorFlow / Keras
+- NumPy
+- Matplotlib
+- scikit-learn
+- Jupyter Notebook
+
+## Results
+
+- Accuracy and loss graphs for training and validation
+- Classification accuracy on test dataset
+- Sample predictions displayed along with true labels
