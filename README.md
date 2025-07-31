@@ -49,6 +49,7 @@ This project is focused on predicting real estate prices using features such as 
 - Educational project for demonstrating ML pipeline in real estate.
 
 <br>  
+<br>
 
 # 2.Image Classification model using CNN
 
