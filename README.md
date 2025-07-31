@@ -47,3 +47,16 @@ This project is focused on predicting real estate prices using features such as 
 
 - Dataset inspired by publicly available housing data.
 - Educational project for demonstrating ML pipeline in real estate.
+
+# Image Classification model using CNN
+
+This project demonstrates how to build and train a Convolutional Neural Network (CNN) for image classification using Python and TensorFlow/Keras. The notebook walks through all the essential steps, including data preprocessing, model building, training, evaluation, and prediction. This type of model is widely used in computer vision applications such as object recognition, face detection, and scene classification.
+
+## Project Highlights
+
+- Import and preprocess image datasets
+- Build a CNN model using Keras Sequential API
+- Apply data augmentation to prevent overfitting
+- Train the model and monitor performance
+- Evaluate the model on test data
+- Make predictions on unseen images
