@@ -48,7 +48,7 @@ This project is focused on predicting real estate prices using features such as 
 - Dataset inspired by publicly available housing data.
 - Educational project for demonstrating ML pipeline in real estate.
 
-  
+<br>  
 
 # 2.Image Classification model using CNN
 
